@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kapil_bhayani/Desktop/YoctoProject/embedded-gateway/stm32-freertos-fw/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/home/kapil_bhayani/Desktop/YoctoProject/embedded-gateway/stm32-freertos-fw/build/CMakeFiles/stm32-freertos-fw.elf.dir
+/home/kapil_bhayani/Desktop/YoctoProject/embedded-gateway/stm32-freertos-fw/build/CMakeFiles/edit_cache.dir
+/home/kapil_bhayani/Desktop/YoctoProject/embedded-gateway/stm32-freertos-fw/build/CMakeFiles/rebuild_cache.dir

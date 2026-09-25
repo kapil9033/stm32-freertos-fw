@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kapil_bhayani/Desktop/YoctoProject/embedded-gateway/stm32-freertos-fw/Core/Src/startup_stm32f446xx.s
+
