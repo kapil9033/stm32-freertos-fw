@@ -1,9 +1,6 @@
 # stm32-freertos-fw
 FreeRTOS-based sensor processing and UART telemetry firmware for STM32 Nucleo boards.
 
-
-Here is a comprehensive documentation summary for **Phase 1** of your Embedded Gateway project. You can copy this directly into your repository’s `README.md` or system documentation.
-
 ---
 
 # Phase 1 Documentation: Hardware Setup, Firmware & Telemetry Bridge
